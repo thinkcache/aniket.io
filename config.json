@@ -1,0 +1,25 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "public",
+    "Theme" : "lanyon",
+    "builddrafts": false,
+    "languageCode" : "en-us",
+    "baseurl": "https://an1ke7.github.io/starblog/",
+    "canonifyurls": true,
+    "permalinks": {
+        "post": ":title/",
+        "fixed": ":title/"
+    },
+    "pygmentsuseclasses": true,
+    "params": {
+        "Title": "Aniket",
+        "Tagline": "mind of the maester",
+        "Author": "Aniket Shirsat",
+        "DateForm": "Jan 2 2006",
+        "Github": {
+            "Url": "http://github.com/an1ke7",
+            "Head": "master"
+        }
+    }
+}
