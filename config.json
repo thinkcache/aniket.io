@@ -5,7 +5,7 @@
     "Theme" : "lanyon",
     "builddrafts": false,
     "languageCode" : "en-us",
-    "baseurl": "https://an1ke7.github.io/starblog/",
+    "baseurl": "https://aniket.io/",
     "canonifyurls": true,
     "permalinks": {
         "post": ":title/",
@@ -14,7 +14,7 @@
     "pygmentsuseclasses": true,
     "params": {
         "Title": "Aniket",
-        "Tagline": "mind of the maester",
+        "Tagline": "my shared wisdom",
         "Author": "Aniket Shirsat",
         "DateForm": "Jan 2 2006",
         "Github": {
