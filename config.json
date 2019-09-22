@@ -5,7 +5,7 @@
     "Theme" : "lanyon",
     "builddrafts": false,
     "languageCode" : "en-us",
-    "baseurl": "https://aniket.io/",
+    "baseurl": "https://starblog-70af3.firebaseapp.com/",
     "canonifyurls": true,
     "permalinks": {
         "post": ":title/",
