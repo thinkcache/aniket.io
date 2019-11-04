@@ -10,9 +10,9 @@ Hey there! My name is Aniket!
 
 Some fun facts about me:
 
-* I love travelling & hiking
-* I enjoy coding
-* I love studying and investing in stock markets
+* I love travelling & hiking.
+* I enjoy coding.
+* I love Finance and stock markets.
 
 Follow me on twitter [@an1ke7](https://twitter.com/an1ke7).
 
