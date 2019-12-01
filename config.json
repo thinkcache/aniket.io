@@ -7,15 +7,15 @@
     "languageCode" : "en-us",
     "baseurl": "https://aniket.io/",
     "canonifyurls": true,
-    "paginate" : 110000,
+    "paginate" : 100000,
     "permalinks": {
         "post": ":title/",
         "fixed": ":title/"
     },
     "pygmentsuseclasses": true,
     "params": {
-        "Title": "Aniket",
-        "Tagline": "my shared wisdom",
+        "Title": "Debonair Catalyst",
+        "Tagline": "Life story of Aniket",
         "Author": "Aniket Shirsat",
         "DateForm": "Jan 2 2006",
         "Github": {
