@@ -1,6 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-Theme = "lanyon"
-tags = ["master", "master1"]
-categories = ["blog"]
-Title = "Aniket"
