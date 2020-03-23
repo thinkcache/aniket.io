@@ -2,29 +2,38 @@
     "title": " About Me",
     "sidebar": true,
     "weight": "1",
-    "draft" : true
+    "draft" : false
 }
 
-<!--
-<p class="message">
-Hey there! My name is Aniket!
-</p>
--->
+> I am a centurion in spirit!   -Aniket
 
+My name is Aniket Shirsat.  </br>
 
-My name is Aniket Shirsat. I am a techie currently based out of Phoenix, Arizona, USA.
+I am a techie currently based out of Phoenix, AZ, USA. Currently working at American Express as a Data Scientist.
 
-Some fun facts about me:
+Technical Qualifications:
+* GCP certified Professional Data Engineer [2020]
+* MS in Business Analytics from W.P.Carey School of Business at Arizona State University [2017-18]
+* B.Tech in Electronics Engineering from Vishwakarma Institute of Technology, Pune. [2010-14]
 
-* I love traveling & hiking.
-* I enjoy coding.
-* I love Finance and stock markets.
+Things I like:
 
+* Coding
+* Technology
+* Data Science
+* Hiking
+* Travel
+* Finance
+* Stock market
+* Investing
 
-<p>
+Life Achievements:
+* Climbed Humphrey's Peak (12,633 feet), the top most point in AZ. [2019]
+* Reached Finals of National Robotics Competition ROBOCON [2013]
+
 Connect with me:
-<a href="https://www.linkedin.com/in/aniketshirsat/" target='blank'> LinkedIn   </a>  |
-<a href="https://twitter.com/an1ke7" target='blank'> Twitter   </a>   |
-<a href="https://github.com/an1ke7" target='blank'> Github   </a> </p>
+[LinkedIN](https://www.linkedin.com/in/aniketshirsat/)  |
+[Twitter](https://twitter.com/an1ke7) |
+[Github](https://github.com/an1ke7)
 
-Thanks for reading!
+Thank you for reading!

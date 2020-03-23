@@ -3,3 +3,5 @@ public/*
 firebase.json
 **/.*
 **/node_modules/**
+*/*.cache
+.firebase/*
