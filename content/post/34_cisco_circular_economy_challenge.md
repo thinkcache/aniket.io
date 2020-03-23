@@ -5,24 +5,23 @@
     "categories" : ["Blog"]
 }
 
-<h3> 23rd March: Cisco Circular Economy Challenge </h3>
+###  23rd March: Cisco Circular Economy Challenge
 
 I participated in the Cisco Circular Economy Challenge where we were given an open-ended Circular Economy Challenge, and in 1 week, we were supposed to present a case for a pilot project. I was on a team of some super talented people. Me along with an ASU 2nd year MBA, a MS in Build Environment student from ASU Design School, and one Ph.D. candidate from Walter Cronkite School of Journalism and Mass Communication in ASU and one of my peers in MSBA formed a team.
 
-<center>
-<img src="/images/MSBA/34/4.jpg" alt="Weather" width="1000"/>
-Sarath, Aishwarya and Me (L-R)
-</center>
+
+![Sarath, Aishwarya and Me ](/images/MSBA/34/4.jpg)
+Sarath, Aishwarya and Me
 
 The final competition day was an all-day event where we presented in the morning in front of the panel of judges. By noon, all the presentations were done, and results for top three finalists were out. Sadly, we didn’t make it to the final round. The Top 3 finalists presented again in front of all the audience. Every participant got a CISCO backpack at the end of the event.
 
 It was a great learning experience for presenting a case. I learned a lot from my team-mates, like how to use critical thinking to form an argument using 360 degrees perspective of the subject.
 
-<h3> Graduation Shopping: </h3>
+###  Graduation Shopping:
 
 Graduation is now almost a month away, and it's time for some shopping. The whole gown and cap basic set costs around $100, just to wear it for a day. A discounted price is offered only during the Bookstore Grad fair which is a 3-day shopping festival in the ASU bookstore.
 
-<h3> ASU MS-BA Employment report: </h3>
+###  ASU MS-BA Employment report:
 
 The Career Services at W.P.Carey School collected data on alumni jobs and based on that they published an Employment Statistics of the 2017 batch. Some notable statistics are as follows:
 

@@ -11,6 +11,5 @@ After some 5-6 basic questions and then later typing something on the keyboard, 
 I collected the passport a few days later with my US visa imprinted on a passport page.
 New beginnings await — a new journey about to commence.
 
-<div class="message">
-“Harder challenges lie ahead; a stronger me is in the making.”
-</div>
+
+> “Harder challenges lie ahead; a stronger me is in the making.”

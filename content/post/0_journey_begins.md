@@ -7,9 +7,9 @@
 
 A 30-hour journey. Three layovers. 3 countries: India(Mumbai) -> UK(London) -> USA(Philadelphia, Phoenix). It all started with some emotional goodbyes at the airport. I was nervous and a bit scared of leaving the comfort zone, and at the same time, excited as well for the challenges that lie ahead.
 
-<div class="message">
-"The best things in life are often waiting for you at the exit ramp of your comfort zone." – Karen Salmansohn
-</div>
+
+> "The best things in life are often waiting for you at the exit ramp of your comfort zone." – Karen Salmansohn
+
 
 Mumbai International Airport Terminal 2 is grand in itself. The departure time for the Bombay -> London British Airways flight was 1:45 AM. I entered the airport at around 10:30 PM. Immigration takes some time, and then you take the long walk towards your boarding gate. We were 4 of us traveling together, and then we also meet a few other ASU students going with us on the same journey to Phoenix.
 
@@ -24,6 +24,5 @@ We went through immigration at Philadelphia as it's the port of entry in the USA
 After clearing all Immigration and Customs procedures, I rechecked in my bags and moved to another terminal for the next flight. Again there was a security check at the new terminal entry point. They again checked my cabin bags. The queue was rather long here, around 20 minutes long. We had a long layover of 4 hours at Philadelphia, so we were never in a hurry, and everything went smooth. The terminal looks more like a mall because it has more shops/eateries than departure gates.
 
 The last leg of our journey was the flight to Phoenix. It was around 5 hours long from East coast to West coast. I had the window seat, and the view of the Philadelphia city skyline was super awesome. The rest of the flight was spent sleeping and taking rest. There was no complimentary food or drinks on this flight as it was a domestic flight. It's difficult to keep track of time as the US itself has multiple time zones. We reached Phoenix at around 08:00 PM Local Time.
-<div class="message">
-"As we get out of the gates, a new journey begins, another adventure commences, a new story is in writing. And I am ready for it." -Aniket
-</div>
+
+> "As we get out of the gates, a new journey begins, another adventure commences, a new story is in writing. And I am ready for it." -Aniket

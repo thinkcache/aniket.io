@@ -7,7 +7,7 @@
 
 Fall Break is a 1-week break that relieves you from all the assignments and homework for a short time. I decided to visit the Grand Canyon for this break. Also luckily this holiday overlapped with the Indian Festival of Diwali, making this holiday exciting.
 
-<h3> 16th, 17th October: The Grand Canyon </h3>
+###  16th, 17th October: The Grand Canyon
 
 10 folks | 2 cars | 2Days-1Night | Flagstaff | Grand Canyon | Horseshoe bend | Lower Antilope Canyon.
 
@@ -19,7 +19,7 @@ Fall Break is a 1-week break that relieves you from all the assignments and home
 
 
 
-<h3> 19th October: Laxmi Pujan </h3>
+###  19th October: Laxmi Pujan
 
 Diwali celebrations in the USA are quite different. There is no noise pollution here. We planned the Laxmi Puja at our home and invited our friends. We also prepared Gulab Jamun today. My roommate and I even received a parcel from home with all the homemade Diwali delicacies.
 
@@ -33,7 +33,7 @@ Diwali celebrations in the USA are quite different. There is no noise pollution 
 <center>Dinner Potluck</center>
 
 
-<h3> 20th October: Instruction Permit </h3>
+###  20th October: Instruction Permit
 
 I gave the driving license exam in the DMV office of Arizona. It’s a simple MCQ test to check that you understand the rules and regulations. It’s $7 for just Instruction Permit, or you can pay $10 for a Driving license without getting a laminated Instructed Permit.
 

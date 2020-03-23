@@ -5,7 +5,7 @@
     "categories" : ["Blog"]
 }
 
-<h3> 1st week of January: Start of something new </h3>
+###  1st week of January: Start of something new
 
 It's time to change gears now, first I have been focussed on learning and implementing Data Science skills to build an impressive resume. The second half, for me, will be focused on job hunting. With only a week of vacation left, it's time to roll up the sleeve. This quarter is expected to be not as heavy as Semester 1, because, we now have two-quarter classes each in the two remaining quarters and no more semester-long classes. So only two courses at one point in time. Along with the Applied Project, which is a semester-long project.
 All the teams in the MSBA have been allocated Corporate projects. Thanks to the reach and influence of our professors, they were able to rope in these many projects for the school. As per my information, the previous batch only had half of their projects from corporates, rest had to source their own projects. So it’s a great improvement this year. They provide a huge list of projects (around 35) with the project outline, and each team has to rank their preferences for only 5 projects. Then the faculty come together and discuss project allocation. They try to allocate you the project which is on your list, but since many people have similar project priorities, not all get their desired projects.

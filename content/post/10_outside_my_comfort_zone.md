@@ -6,7 +6,7 @@
 }
 
 
-<h3> 2nd October: Data-Driven Quality Management Midterm </h3>  
+###  2nd October: Data-Driven Quality Management Midterm   
 
 Our professor had already informed us, he had set an exam where he expects us to get around 75% only. And he had also intimated us that it wouldn't be easy. All the earlier tests I took were not that challenging at all, and in most of the class tests in other subjects, it's quite easy to score. Till today everything was going very easy, and this was about to change today.
 
@@ -18,11 +18,11 @@ a lot of time.
 We met the professor after the exam, and he said he wanted to challenge us. He also mentioned that if the test was easy, then there is no point in taking the examination; that's why the test is challenging. It made me remember the quote: "As you move outside of your comfort zone, what was once the unknown and frightening becomes your new normal." This moment was the 1st time I felt like course is kind of challenging (not tricky though), but with enough practice, it is possible to get a good score.
 What's gone is gone; now it's time to move to the next exam.
 
-<h3> 3rd October: Analytical Decision Modeling 1 Midterm Exam </h3>
+###  3rd October: Analytical Decision Modeling 1 Midterm Exam
 
 Analytical Modeling quizzes are a pen-paper test, where you get one optimization question, and you have to create a model on paper. Midterm had two questions, and the test was an open book open notes. Once you figure out the base model for the problem, it is easy to create the model to solve the problem.
 
-<h3> 4th October: Intro to Enterprise Analytics Quiz </h3>
+###  4th October: Intro to Enterprise Analytics Quiz
 
 This subject is almost getting over. Tableau is the last topic, and we have a project on Tableau. Since I have some experience in SQL and my job was in Data warehousing, I feel this is the most comfortable subject for me. The class quiz is simple Multiple choice questions, and most people complete it within 10 minutes for up to 15 questions.
 Earlier, this quiz was scheduled on Monday, 2nd October, but since we had another midterm exam on that same day, we requested the professor to postpone the exam to Wednesday.

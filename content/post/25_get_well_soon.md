@@ -5,7 +5,7 @@
     "categories" : ["Blog"]
 }
 
-<h3> 17th January 2018: The Cold-wave is coming! </h3>
+### 17th January 2018: The Cold-wave is coming! 
 
 Until last week, the lowest temperature was about 10 degrees Celsius, but starting this week, looks like some cold wave it hitting Tempe, lowering it to 3 degree Celsius again for a few days. Many folks are even getting sick these days, like widespread coughing around the campus. Maybe be the weather is facilitating the spread of diseases. Also, I caught a cough and fever.
 

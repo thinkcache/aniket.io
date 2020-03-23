@@ -1,5 +1,5 @@
 {
-    "title": " About Me",
+    "title": " About",
     "sidebar": true,
     "weight": "1",
     "draft" : false
@@ -13,12 +13,13 @@ I am a techie currently based out of Phoenix, AZ, USA. Currently working at Amer
 
 Technical Qualifications:
 * GCP certified Professional Data Engineer [2020]
-* MS in Business Analytics from W.P.Carey School of Business at Arizona State University [2017-18]
-* B.Tech in Electronics Engineering from Vishwakarma Institute of Technology, Pune. [2010-14]
+* MS in Business Analytics from W.P.Carey School of Business at Arizona State University [2018]
+* B.Tech in Electronics Engineering from Vishwakarma Institute of Technology, Pune. [2014]
 
 Things I like:
 
 * Coding
+* Reading Non Fiction Books
 * Technology
 * Data Science
 * Hiking
@@ -27,9 +28,12 @@ Things I like:
 * Stock market
 * Investing
 
-Life Achievements:
-* Climbed Humphrey's Peak (12,633 feet), the top most point in AZ. [2019]
-* Reached Finals of National Robotics Competition ROBOCON [2013]
+Life's Best Moments:
+* Climbed Humphrey's Peak (12,633 feet), the highest point in Arizona. [2019]
+* Hiked Angel's Landing trail in Zion National Park [2018]
+* Hiked Chanderkhani Pass Trail #YHAI [2016]
+* Cycled Jalori Pass Trail #YHAI [2015]
+* Reached Finals of National Robotics Competition #ROBOCON [2013]
 
 Connect with me:
 [LinkedIN](https://www.linkedin.com/in/aniketshirsat/)  |

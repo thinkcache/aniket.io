@@ -7,15 +7,14 @@
 
 
 
-<h3> 7th and 8th August: </h3>
+###  7th and 8th August:
 
 We had our program orientation, which is for the Master of Science in Business Analytics program. We were instructed to be dressed in Business Professional suits for Monday, as they would be taking our photos for the yearbook. Then again, we had some sessions on Academic Integrity, emphasizing its importance. A few domestic students also joined us from Today. We had an Alumni Panel, where Shaunak Bangale, along with a few other alumni, shared their views, followed by motivation and encouragement for our upcoming journey.
 
 Post lunch, we also had a Faculty Panel where they introduced themselves and their subjects. The Q&A rounds after every panel was very interactive. Professor Roy also gave a fair early warning about the challenges that lie ahead for us in his class.
 
-<div class="message">
-“I don’t have mercy in my class.” – Professor Asim Roy.
-</div>
+> “I don’t have mercy in my class.” – Professor Asim Roy.
+
 
 
 
@@ -27,7 +26,7 @@ We were divided into random teams for the semester. Each team had cultural diver
 We also had a W.P.Carey School tour that showed us various aspects of the School. McCord Hall will be our home for the entire program. There are classrooms and team rooms all over the building. Network printing is available to all students on the 2nd floor. The Business School also has its own Star Bucks at the ground level.
 The next day, My roommate’s bikes got a flat tire, and it took him $10 to repair it. The labor cost is quite expensive here. There was also a pool party at my apartment locality, where we got free pizzas. We didn’t venture into the pool in the tanning sun, but we did get the tasty cheese pizza.
 
-<h3> 12th August: </h3>
+###  12th August:
 We went to Tempe Beach Park in the evening. It’s a fishing spot and also has a running/jogging track. Also, there are some company offices nearby, where we might get an opportunity to work on OPT later. It’s a great place to relax as well.
 
 ![Chilling out at Tempe Beach Park](/images/MSBA/2/20170812_185902.jpg)

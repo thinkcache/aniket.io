@@ -5,7 +5,7 @@
     "categories" : ["Blog"]
 }
 
-<h3> 21st August: Classes commence </h3>
+###  21st August: Classes commence
 
 The educational system is entirely different in the USA. Here a discussion-based class is encouraged rather than a delivery based class. In a delivery based class, the professor delivers the knowledge to all the students. I have experienced this in my earlier educational system in India. This is a one-directional flow of knowledge. Instead, here they follow the discussion-based model, where the professor hands out the notes and reading materials before the classes for the students to read and come prepared to the class to participate in discussions actively. This scheme increases the sense of understanding of the subject matter. There are marks for active participation as well, which accounts for up to 5% of the total subject marks.
 
@@ -17,11 +17,11 @@ I also applied for some on-campus jobs in W.P.Carey school for desk assistant an
 
 I had also enrolled myself in Coursera.org free trial period. So I got unlimited access to Coursera.org courses for seven days. I registered for the Deep learning track designed by the AI legend Andrew Ng.
 
-<h3> 24th August: </h3>
+###  24th August:
 
 Classes begin in full swing, and right now, only the basics are getting covered till now. Basics are quite easy if you have an IT experience. When I have a morning class and an afternoon class, I carry tiffin with me. It’s better to stay in college during any breaks rather than going home and cooking. Traveling often is also not recommended here unless you have a car, because of the extreme heat. Right now, it’s not as hot as in May, when the sun goes crazy, but still, can give you sunburns.
 I attended the SoDA First meeting today at 7.00 PM. They had free Pizzas here for every attendee. This club is the Software Development Association [./SoDA] of ASU, which hosts hackathons and Technical lectures in ASU. They also mentioned that they spent $8000 last year on free food to attendees in their events. The association is sponsored by the industry as well, which includes GoDaddy, Amazon, and Goldman Sachs, along with many other firms.
 
-<h3> 26th August: Preparation for the McKesson Event </h3>
+###  26th August: Preparation for the McKesson Event
 
-McKesson, a Fortune 5 company, was to host a networking and recruitment event on Monday in Pheonix. I, with some peers, planned to miss class to attend the event. We informed the professor about this, and he asked to read the lecture notes available online before the next class. We prepared our resume for our first recruitment event of the season. Most skills on my resume were still work in progress as I was still pursuing my education, so I had no high hopes for any reasonable output from this event. One of our seniors had recommended to work on skill-building in Fall and then go ahead with job hunting in Spring.
+McKesson, a Fortune 5 company, was to host a networking and recruitment event on Monday in Phoenix. I, with some peers, planned to miss class to attend the event. We informed the professor about this, and he asked to read the lecture notes available online before the next class. We prepared our resume for our first recruitment event of the season. Most skills on my resume were still work in progress as I was still pursuing my education, so I had no high hopes for any reasonable output from this event. One of our seniors had recommended to work on skill-building in Fall and then go ahead with job hunting in Spring.

@@ -5,7 +5,7 @@
     "categories" : ["Blog"]
 }
 
-<h3> 11th December: Race Day </h3>
+###  11th December: Race Day
 
 As part of the Data-Driven Quality Management class project, we were supposed to design a LEGO set car that would travel the longest distance off the ramp. We were supposed to use Design of Experiments concepts that we learned in the class. And if this was not interesting enough, we had a Race Day where we would be competing with other teams in the cohort to win the Prize of the Best car design.
 
@@ -18,7 +18,7 @@ We were the 1st batch to do this kind of project, and I hope this new tradition 
 ![MSBA ](/images/MSBA/20/IMG-20171211-WA0026.jpg)
 ![MSBA ](/images/MSBA/20/IMG-20171211-WA0036.jpg)
 
-<h3>  13th December: Data Mining 1 Final Exam </h3>
+###   13th December: Data Mining 1 Final Exam
 
 Data Mining exams till now had been easy, its online test, and usually get over in like less than 10 minutes for the Quizzes. The final exam was supposed to be of a similar format with the whole syllabus and a total of around 40 questions. All questions are conceptual and theoretical, so it doesn’t usually take much time to get the answer.
 
@@ -26,7 +26,7 @@ In the last quiz, I made some terrible mistakes, like not reading the question c
 
 The exam started at 02:00 PM for all the cohorts, and the 1st person got out within 5 minutes. Then another and another. It was an easy test and took me around 10-15 minutes only. When we exited the exam room, we were almost free, as all exams were over, just one team assignment submission pending, which we covered in the next 3 hours quickly.
 
-<h3> 14th December: Drop off Abhishek at the airport </h3>
+###  14th December: Drop off Abhishek at the airport
 
 The meteor shower was visible from midnight to up to 4 AM. We were in the community parking lot at midnight to see the meteor shower, which was barely noticeable due to nearby lights. We did saw a few, though.
 
@@ -41,7 +41,7 @@ Yummy in my tummy !! Donuts !!
 
 At 11:30 AM, there was a guest lecture at Ira Fulton Engineering college by an IIT Madras professor on Reinforcement learning. He talked about the research going on at IIT Madras in this field, and how they are progressing to the ultimate goal of human-like learning. He showcased some reinforcement learning implementations on legacy ATARI computer games. Ira Fulton engineering college hosts many such interesting guest lectures almost every week.
 
-<h3> 15th – 16th December: Potluck </h3>
+###  15th – 16th December: Potluck
 
 Our room hosted potlucks with our friend’s group (2 different groups). We had happening events at our place with food and games for almost the whole weekend. Murong learned how to cook Dosas.
 ![Potluck ](/images/MSBA/20/IMG_20171218_200321.jpg)

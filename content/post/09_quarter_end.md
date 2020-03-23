@@ -12,7 +12,7 @@ There is no fixed pattern of exams and marks structure. Each professor is empowe
 To give a brief overview of the Fall '17 schedule, we have five subjects:
 
 - Intro to Enterprise Analytics (Quarter 1): This is about data modeling, SQL, Data Warehousing concepts, and Tableau. This class ends in the 2nd week of October .
-- Intro to Applied Analytics (Semester 1): This is all about probability and statistics. This class includes Bayes's theorem, hypothesis testing, and statistical tests.
+- Intro to Applied Analytics (Semester 1): This is all about probability and statistics. This class includes Bayes' theorem, hypothesis testing, and statistical tests.
 - Data-Driven Quality Management (Semester 1): This subject is about quality tools like six sigma, Control charts, and Design of Experiments.
 - Analytical Data Modeling (Semester 1): Optimize business processes within provided constraints using mathematical and computational models. This class is all about prescriptive analytics.
 - Data Mining 1 (Quarter 2): Understanding Data Mining and Machine Learning concepts are covered. Microsoft Azure ML is used for the computational implementation of algorithms. This class will start in the last week of October.

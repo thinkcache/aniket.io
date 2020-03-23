@@ -13,12 +13,11 @@ People with a part-time campus job can work more hours in the breaks, so they ar
 Also, I did some work on Prof. Roy’s projects, and then my team and I presented our initial work this week. Remarkably few people out of the 70 who were interested back then were present this time. Many people are enjoying the Christmas festivities around the USA.
 Lots of time is available in the winter break to put to good use!
 
-<h3>  31st December: New Year’s Eve </h3>  
+###   31st December: New Year’s Eve   
 
-We went to Mill Avenue to see the crowd and the cheerful atmosphere here. It was the party environment with enormous crowds for popular pubs like El Hefe and CASA. We then went to Tempe Beach Park(which is not a beach but has some similarity to Marine Drive, Mumbai). The fireworks start at midnight when the new year begins. And it’s over the 'A' mountain. The fireworks are good only if you don’t compare it to Diwali celebrations in India.
-<center>
-<img src="/images/MSBA/22/IMG_20180101_005158.jpg" alt="Weather" width="300"/>
-</center>
-<center>
-<img src="/images/MSBA/22/IMG_20180101_005207.jpg" alt="Weather" width="300"/>
-</center>
+We went to Mill Avenue to see the crowd and the cheerful atmosphere here. It was the party environment with enormous crowds for popular pubs like El Hefe' and CASA. We then went to Tempe Beach Park(which is not a beach but has some similarity to Marine Drive, Mumbai). The fireworks start at midnight when the new year begins. And it’s over the 'A' mountain. The fireworks are good only if you don’t compare it to Diwali celebrations in India.
+
+![NYE](/images/MSBA/22/IMG_20180101_005158.jpg)
+
+
+![NYE](/images/MSBA/22/IMG_20180101_005207.jpg)

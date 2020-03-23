@@ -5,19 +5,19 @@
     "categories" : ["Blog"]
 }
 
-<h3> 4th September: Classes and classes </h3>
+###  4th September: Classes and classes
 
 It's very advantageous if you have some industry experience in any related field. I had experience in Business Intelligence and Data Warehousing, so the subject "Introduction to Enterprise Analytics" was entirely relatable for me. Some of my friends had experience in SQL, which helped them a lot.
 
 Assignments and homework start to pile up, so it becomes a priority to get it done in team meetings. Some assignments are individual, and some are team-based, so depending on that, we have to book Team rooms to get stuff done. Team rooms in McCord Hall are fascinating. You get a large screen TV for presentations, whiteboards, and an excellent environment to have group discussions.
 
-<h3> 8th September: Cover up for Labor Day </h3>
+###  8th September: Cover up for Labor Day
 
 We had an extra day of classes to cover up the Labour Day holiday. Today I saw some folks planning to book tickets to India for December holidays. They must be already homesick. It's the right time to book Christmas vacation tickets if not already done to avoid overpaying later for the same tickets. It's the holiday season, and hence you can't even focus on job searching at that time, so I need to think of some activity for the holidays. It's an excellent opportunity to roam around the USA but requires some early planning to avoid high ticket rates.
 
 Today, I realized that some professors don't give reminders for the assignment deadlines, as it was already provided in the 1st class in the course introduction document, which I didn't read thoroughly. Agenda of each class session and deadlines are provided in the course introduction document, and I realized that it's essential to read the course introduction document for all subjects.
 
-<h3> 9th September: Arizona State vs. San Diego Football Fever </h3>
+###  9th September: Arizona State vs. San Diego Football Fever
 
 Before every Football match at home stadium, there is a Tailgate event at McCord Hall for Business school students sponsored by companies. There is free food and also drinks if you present a valid age proof. The tailgate event starts around 2 hours before the match kickoff. The Sun Devils Stadium is approximately 15 to 20 minutes' walk from McCord Hall when you take the route via the Palm Walk. Tickets for the match are available to current ASU students free of cost. Crowds over here go crazy over Football (American Football). Everyone is encouraged to wear the golden color of ASU.
 
