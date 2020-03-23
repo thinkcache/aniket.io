@@ -13,7 +13,7 @@ Applicable Fees:
 
 ISSC   :$100
 
-USCIS :$410
+USCIS  :$410
 
 The tricky part is to choose a date for the start of OPT. You have to choose a date within two months of the degree completion date. And then the EAD (employment authorization document) card is valid for one year only from that date. The degree completion date is 7th May 2018. Once the OPT starts, it is compulsory to find employment within three months to maintain valid F1 status. -> Very Important.
 
