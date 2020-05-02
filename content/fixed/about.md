@@ -5,9 +5,7 @@
     "draft" : false
 }
 
-> I am a centurion in spirit!   -Aniket
-
-My name is Aniket Shirsat.  </br>
+My name is **Aniket Shirsat**.  </br>
 
 I am a techie currently based out of Phoenix, AZ, USA. Currently working at American Express as a Data Scientist.
 

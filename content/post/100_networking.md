@@ -13,7 +13,7 @@ Exactly one year back, I was a student looking for exciting job opportunities. M
 
 **Career Fairs:** Attending a career fair and delivering a 30-second elevator pitch to a recruiter just like every other person is not networking. This can be the first step in some cases, but it’s not over there. Also, it’s rare for Recruiters to be someone’s boosters (The minority group of people who love their job and want to help people). Also, Career Fairs are too chaotic to be productive by any means. Those long queues and that big stack of resumes!
 
-**Networking events/Meetups:** This will be a good start. Many people genuinely come here to expand their network. You can find people that want to help you.
+**Networking events/Meetups:** Simply attending the meetups is not enough. There is more to it. However, attending meetups is a good start. Many people genuinely come here to expand their network. You can find people that want to help you.
 
 **LinkedIn:** Simply adding someone to your LinkedIn network is not networking.
 

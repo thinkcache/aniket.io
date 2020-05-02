@@ -1,0 +1,15 @@
+{
+    "title": "DRAFT",
+    "date": "2020-02-01",
+    "tags" : ["MS in the US"],
+    "categories" : ["Blog"],
+    "draft" : true,
+    "featured_image": "/images/MSBA/2/DSC_0842.jpg",
+    "featured_image_caption": "Caption Blah Blah"
+}
+
+This is a draft.
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>

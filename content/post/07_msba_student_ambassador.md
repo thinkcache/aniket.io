@@ -28,6 +28,7 @@ We were asked to prepare a 30-second elevator pitch to advertise yourself to the
 ### 15th September: Student Ambassador Selection Result
 
 I received an email that I have been selected to represent W.P.Carey School's MS in Business Analytics program to prospective students. There are around 10 Student Ambassadors every year for the MSBA program, who answer queries of all prospective students. It's a voluntary activity and hence, unpaid responsibility, but it does look good on the resume.
-16th September: LUG (Linux Users Group) Club Meetup
 
-LUG installfest was scheduled at 11:00 AM in the engineering college at ASU. I was trying to get my Linux Mint installed in my system since the last two weeks but was not able to due to UEFI. Finally, after the end of the session, I got a live persistence running on my flash drive. But it's too slow, which I believe is due to the USB 2.0 bottleneck. I will need to buy a USB 3 Flash drive just for Linux.
+### 16th September: LUG (Linux Users Group) Club Meetup
+
+LUG Install-Fest was scheduled at 11:00 AM in the engineering college at ASU. I was trying to get my Linux Mint installed in my system since the last two weeks but was not able to due to UEFI. Finally, after the end of the session, I got a live persistence running on my flash drive. But it's too slow, which I believe is due to the USB 2.0 bottleneck. I will need to buy a USB 3 Flash drive just for Linux.

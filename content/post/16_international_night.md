@@ -13,7 +13,7 @@
 
 The session was given by a data science practitioner who had immense experience in this field. He was talking about the mathematics behind the Gaussian models from the basics. By the way, these events have free food as well :). At the end of the session, I met a few other folks who were also data science practitioners and tried to get some tips for effectively solving Kaggle challenges, which have kept me busy for the last few days. Such events give you opportunities to network in-person to some of the best data scientists working in the Phoenix Area.
 
-###  16th Nov: Masters Discovery Event 
+###  16th Nov: Masters Discovery Event
 
 As a Student Ambassador, I attended the Masters Discovery Session arranged by W.P.Carey School of Business. The food at the event was also good, by the way. Ambassadors don’t get any monetary compensation for all their work. I was there to share my experience of the MSBA course to prospective students to help them make the right decision.
 

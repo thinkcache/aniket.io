@@ -6,9 +6,9 @@
 }
 
 ###  6th November: Data Analytics Club
-Data Analytics Club of ASU has a meet on most Mondays at McCord Hall. Undergrad students run this organization from Computer Science Majors or Data Analytics Major. Today they had a session on Web scrapping using Scrapy web scrapping library for python. The meeting was interactive with the ongoing live demo. This club is not very popular, so it's attendees strength is also quite low, I guess it has to do with the lack of publicity.
+Data Analytics Club of ASU has a meet on most Mondays at McCord Hall. Undergrad students run this organization from Computer Science Majors or Data Analytics Major. Today they had a session on Web scrapping using "scrapy" - the web scrapping library in python. The meeting was interactive with the ongoing live demo. This club is not very popular, so its attendees strength is also quite low, I guess it has to do with the lack of publicity.
 
-###   Frisbee game: 
+###   Frisbee game:
 
 Frisbee is a fascinating game in the USA. It's easy to learn but challenging to play. You pass the frisbee from one team member to another and try to reach the goal post. One catch, you can't move when you have the frisbee. A pass is complete when your teammate successfully catches the frisbee without it touching the ground first, and if not, then the other team gets the frisbee. It gets cold (around 17-degree Celsius) after 07:00 PM. Some sports activities are the need to of the hour for a fit and healthy body. The SDFC Intramural Ground, which is next to the McCord Hall, is occupied with sports activities during the evening. People play cricket, Football(Soccer), and even Quidditch. (Can't believe, see the below proof)
 
