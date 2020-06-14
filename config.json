@@ -1,7 +1,7 @@
 {
     "contentdir": "content",
     "layoutdir": "layouts",
-    "publishdir": "public",
+    "publishdir": "docs",
     "Theme" : "lanyon",
     "builddrafts": false,
     "languageCode" : "en-us",
@@ -15,7 +15,7 @@
     "pygmentsuseclasses": true,
     "params": {
         "Title": "Debonair Catalyst",
-        "Tagline": "Aniket Shirsat's Personal Blog",
+        "Tagline": "Aniket's Corner on the web",
         "Author": "Aniket Shirsat",
         "DateForm": "Jan 2, 2006",
         "Github": {

@@ -1,5 +1,5 @@
 {
-    "title": " About",
+    "title": " About Me",
     "sidebar": true,
     "weight": "1",
     "draft" : false

@@ -1,7 +1,7 @@
 {
     "title": "Read it to believe this incredible educational journey",
     "date": "2020-04-02",
-    "tags" : ["Book"],
+    "tags" : ["Books"],
     "categories" : ["Blog"]
 }
 
