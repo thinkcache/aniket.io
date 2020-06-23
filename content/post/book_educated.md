@@ -1,5 +1,5 @@
 {
-    "title": "Read it to believe this incredible educational journey",
+    "title": "Educated: A Memoir [Book]",
     "date": "2020-04-02",
     "tags" : ["Books"],
     "categories" : ["Blog"]

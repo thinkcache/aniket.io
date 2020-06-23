@@ -1,7 +1,7 @@
 {
     "contentdir": "content",
     "layoutdir": "layouts",
-    "publishdir": "docs",
+    "publishdir": "public",
     "Theme" : "lanyon",
     "builddrafts": false,
     "languageCode" : "en-us",

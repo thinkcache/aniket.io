@@ -7,7 +7,7 @@
 
 My name is **Aniket Shirsat**.  </br>
 
-I am a techie currently based out of Phoenix, AZ, USA. Currently working at American Express as a Data Scientist.
+I am a techie based out of Phoenix, AZ, USA. Currently working at American Express as a Data Scientist.
 
 Technical Qualifications:
 * GCP certified Professional Data Engineer [2020]
