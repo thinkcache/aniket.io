@@ -6,6 +6,7 @@
     "builddrafts": false,
     "languageCode" : "en-us",
     "baseurl": "https://aniket.io/",
+    "googleAnalytics": "UA-170825557-1",
     "canonifyurls": true,
     "paginate" : 100000,
     "permalinks": {

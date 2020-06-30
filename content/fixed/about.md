@@ -7,12 +7,17 @@
 
 My name is **Aniket Shirsat**.  </br>
 
-I am a techie based out of Phoenix, AZ, USA. Currently working at American Express as a Data Scientist.
+Developer | Tinkerer | Data Techie | Bibliophile | Traveller | Writer
 
-Technical Qualifications:
-* GCP certified Professional Data Engineer [2020]
-* MS in Business Analytics from W.P.Carey School of Business at Arizona State University [2018]
-* B.Tech in Electronics Engineering from Vishwakarma Institute of Technology, Pune. [2014]
+My Career progression:
+* '20 : 💡 Working on some great ideas
+* '20 : GCP certified Professional Data Engineer
+* '19 : Started work as Data Scientist at American Express
+* '18 : Started work as Financial Analyst at ProEM Operation LLC
+* '18 : 🎓 Graduated from Arizona State University
+* '17 : 🇺🇸 Moved to USA for Higher education
+* '14 : Started work as Data Engineer at L&T Infotech
+* '14 : 🎓 Graduated from Pune University with Electronics Engineering Degree
 
 Things I like:
 
