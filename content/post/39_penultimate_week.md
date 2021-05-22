@@ -10,6 +10,11 @@
 
 Almost all the teams had their Capstone presentations this week, either onsite or on-campus. Also, the Marketing Project Presentation and the Business Venture presentation were in this week. So this was an action-packed week with back to back presentations in all the classes.
 
+![Presentation](/images/MSBA/39/IMG-20180426-WA0008.jpg)
+![Presentation](/images/MSBA/39/IMG-20180426-WA0009.jpg)
+![Presentation](/images/MSBA/39/IMG-20180426-WA0010.jpg)
+![Presentation](/images/MSBA/39/IMG-20180426-WA0011.jpg)
+
 ###  MSBA Games:
 
 It's almost time for graduation and folks are busy planning for after graduation events and parties. One such includes a Sports Tournament.
@@ -45,4 +50,4 @@ There are 3 different Convocation ceremonies held.
 
 * **International Graduate Convocation**:  Applicable to only International Students. (5th May)
 * **ASU Graduate Convocation**:  ASU wide graduate programs convocation (7th May)
-* **W.P.Carey Graduate Convocation**:   W.P.Carey Master's Students Convocation (10th May) ->***This is the most important one*** 
+* **W.P.Carey Graduate Convocation**:   W.P.Carey Master's Students Convocation (10th May) ->***This is the most important one***

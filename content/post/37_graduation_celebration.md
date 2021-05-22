@@ -18,6 +18,8 @@ We had a class discussion on data privacy concerns created by Facebook, and how 
 
 W.P.Carey organized the Graduation Celebration near the BAC building. There was a massive promotion for a free insulated water bottle, on filling the program survey. The event started at noon, and there was an enormous queue, almost 20 minutes in line to enter the event. And the water bottle was worth it. An insulated W.P.Carey Alumni branded 40oz water bottle with a lifetime warranty. By the time, I entered, the food was over, but still, freebies were available.
 
+![Final Days](/images/MSBA/37/Screenshot_20180413-015347.jpg)
+
 ### DHL internship offers:
 
 Many students (between 10 and 20) received the DHL 11 month internship offer this week. I knew a few students who do not have much work experience and still cracked the interview. So definitely inexperience is not a barrier for success. Surprisingly, these internship programs were first showcased in the Career Fairs, and then only people who visited the DHL booth received the application email. They also requested a 1-minute video to be submitted as part of the application process, and then followed by one interview round. So Career Fairs are useful!

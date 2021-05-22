@@ -11,9 +11,17 @@ Last Fall, the campus-wide Career Fair was full of Marketing and Sales Job oppor
 
 This week the weather was different, it even rained for a whole day this week, very rare in Phoenix Area. I was lucky I carried a raincoat with me that day (Thanks to the weather forecast, that I checked in the morning). Lockers inside McCord Hall are allocated on a lottery basis every semester, and this semester I wasn’t fortunate to get a locker, so I kept my suit in my friend’s locker.
 
+
+
 ### 13th February: Authentic Chinese Dinner
 
 Finally, I got the chance to have some authentic Chinese Noodles thanks to Lingli. She made delicious noodles and some veggie starter which I don’t know what it was but it tasted good. Also, she taught how to use chopsticks, a vital skill to eat Chinese food.
+
+![Chinese Food](/images/MSBA/29/IMG_20180213_215513.jpg)
+![Chinese Food](/images/MSBA/29/IMG_20180213_215522.jpg)
+![Chinese Food](/images/MSBA/29/IMG_20180213_215832.jpg)
+![Chinese Food](/images/MSBA/29/IMG_20180213_215128.jpg)
+![Chinese Food](/images/MSBA/29/IMG_20180213_220835.jpg)
 
 ### 16th February: Gililland Middle School RaspberryPi session
 

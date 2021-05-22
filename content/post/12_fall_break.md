@@ -11,7 +11,6 @@ Fall Break is a 1-week break that relieves you from all the assignments and home
 
 10 folks | 2 cars | 2Days-1Night | Flagstaff | Grand Canyon | Horseshoe bend | Lower Antilope Canyon.
 
-<center>Trip Memories</center>
 ![Trip Memories](/images/MSBA/12/20171017_095322.jpg)
 ![Trip Memories](/images/MSBA/12/20171017_130803.jpg)
 ![Trip Memories](/images/MSBA/12/IMG_20171017_135348.jpg)
@@ -24,13 +23,13 @@ Fall Break is a 1-week break that relieves you from all the assignments and home
 Diwali celebrations in the USA are quite different. There is no noise pollution here. We planned the Laxmi Puja at our home and invited our friends. We also prepared Gulab Jamun today. My roommate and I even received a parcel from home with all the homemade Diwali delicacies.
 
 ![Gulab Jamuns](/images/MSBA/12/20171019_185407-e1511135237566.jpg)
-<center> Gulab Jamuns (Indian Sweet dish) </center>
+
 
 ![Laxmi Puja](/images/MSBA/12/20171019_202335.jpg)
-<center>Laxmi Puja (Indian prayer)</center>
+
 
 ![Dinner Potluck](/images/MSBA/12/20171019_210715-e1511135264886.jpg)
-<center>Dinner Potluck</center>
+
 
 
 ###  20th October: Instruction Permit

@@ -19,3 +19,6 @@ In the evening, Prodigy Finance had a networking mixer at La Bocca Pizzeria on M
 There seems to be an off seasonal cold wave hitting the Phoenix Area. It’s again chilling, especially at night. Its colder here in Phoenix, compared to Boston, New York, and Chicago, at least for today.
 
 Next Week is the Finals Week for the 3rd Quarter, so we have two exams for two subjects. But Data Mining Quiz 3 is optional because of the best 2 out of 3 Quizzes pattern. I had a good score in the earlier quizzes, so I decided to skip the last quiz. So I just had one exam in the Finals Week. Cheers !!
+
+![Cold Wave](/images/MSBA/30/Screenshot_20180221-204841.jpg)
+![Cold Wave](/images/MSBA/30/Screenshot_20180221-134125.jpg)

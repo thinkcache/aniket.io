@@ -29,4 +29,3 @@ The next day, My roommate’s bikes got a flat tire, and it took him $10 to repa
 We went to Tempe Beach Park in the evening. It’s a fishing spot and also has a running/jogging track. Also, there are some company offices nearby, where we might get an opportunity to work on OPT later. It’s a great place to relax as well.
 
 ![Chilling out at Tempe Beach Park](/images/MSBA/2/20170812_185902.jpg)
-<center>Chilling out at Tempe Beach Park </center>

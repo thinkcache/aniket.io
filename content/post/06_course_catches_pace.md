@@ -22,17 +22,17 @@ Today, I realized that some professors don't give reminders for the assignment d
 Before every Football match at home stadium, there is a Tailgate event at McCord Hall for Business school students sponsored by companies. There is free food and also drinks if you present a valid age proof. The tailgate event starts around 2 hours before the match kickoff. The Sun Devils Stadium is approximately 15 to 20 minutes' walk from McCord Hall when you take the route via the Palm Walk. Tickets for the match are available to current ASU students free of cost. Crowds over here go crazy over Football (American Football). Everyone is encouraged to wear the golden color of ASU.
 
 ![Sun Devil Stadium Entrance](/images/MSBA/6/20170909_195442.jpg)
-<center>Sun Devil Stadium Entrance</center>
+
 
 Sun Devils Stadium is a massive stadium with a sitting capacity of over 50,000. When we reached near the stadium, we saw some mesmerizing fireworks in the sky. There was an enormous crowd at the entry gate. One side of the stadium is carved out of the mountain. The view from the top is super awesome.
 
 ![Inside Sun Devil Stadium](/images/MSBA/6/20170909_200808.jpg)
-<center>Inside Sun Devil Stadium</center>
+
 
 Although I didn't understand any rules of this game, it was still enjoyable to watch the match. The Sun Devil fans are fantastic.
 
 ![Me Cheering for Sun Devils](/images/MSBA/6/20170909_214526.jpg)
-<center>Me Cheering for Sun Devils</center>
+
 
 
 The musical band show at halftime was excellent. The band occupied the whole field with musical instruments and dancers with huge flags. They had remarkable coordination, which made the presentation impressive.

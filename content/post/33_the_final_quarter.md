@@ -21,12 +21,24 @@ This class focuses on applying Analytical techniques in the Marketing domain. R 
 
 There are a lot of events happening in McCord Hall, and usually, there is a lot of food left after the event. This time, it was time to grab a plate. When life gives you free food, grab the whole goddamn plate.
 
+![Free Food](/images/MSBA/33/Photo-from-Aniket-Shirsat.jpg)
+![Free Food](/images/MSBA/33/Photo-from-Aniket-Shirsat-1.jpg)
+
 ### 16th March: Lingli's birthday celebration
 
 A get-together event to celebrate Lingli’s birthday, with some Chinese food and Indian food.
+
+![Lingli party](/images/MSBA/33/Photo-from-Aniket-Shirsat-2.jpg)
+
 
 ### 17th March: ASU Holi
 
 Indian Student Association (ISA) organized a 'Holi' event on PV lawns( Next to ASU bridge on University Drive). It was open to all (not just ASU), and also Lunch was provided. Water was not allowed, only colors. The color was provided at the event.
 
+![Holi](/images/MSBA/33/Photo-from-Aniket-Shirsat-3.jpg)
+![Holi](/images/MSBA/33/Photo-from-Aniket-Shirsat3.jpg)
+![Holi](/images/MSBA/33/Photo-from-Aniket-Shirsat2.jpg)
+
 Live DJ playing Bollywood music. Veg Biryani and Chicken Biryani from Amravati Catering was delicious.
+
+![Holi](/images/MSBA/33/Photo-from-Aniket-Shirsat-4.jpg)
