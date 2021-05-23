@@ -1,7 +1,7 @@
 {
-    "title": "Educated: A Memoir [Book]",
+    "title": "[Educated: A Memoir]",
     "date": "2020-04-02",
-    "tags" : ["Books"],
+    "tags" : ["BookShelf"],
     "categories" : ["Blog"]
 }
 
