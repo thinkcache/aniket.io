@@ -1,5 +1,5 @@
 {
-    "title": " About Me",
+    "title": "About Me",
     "sidebar": true,
     "weight": "1",
     "draft" : false
@@ -7,20 +7,17 @@
 
 My name is **Aniket Shirsat**.  </br>
 
+I am a
 Developer | Tinkerer | Data Techie | Bibliophile | Traveller | Writer
 
-My Career progression:
-* '20 : 💡 Working on some great ideas
+* '21 : 🇮🇳 Moved back to India
 * '20 : GCP certified Professional Data Engineer
-* '19 : Started work as Data Scientist at American Express
-* '18 : Started work as Financial Analyst at ProEM Operation LLC
 * '18 : 🎓 Graduated from Arizona State University
 * '17 : 🇺🇸 Moved to USA for Higher education
-* '14 : Started work as Data Engineer at L&T Infotech
-* '14 : 🎓 Graduated from Pune University with Electronics Engineering Degree
-
+* '14 : 🎓 Graduated from Pune University with an Engineering Degree
+* '92 : 🇮🇳 First Cry #Born #India
+___
 Things I like:
-
 * Coding
 * Reading Non Fiction Books
 * Technology
@@ -30,14 +27,15 @@ Things I like:
 * Finance
 * Stock market
 * Investing
-
+___
 Life's Best Moments:
-* Climbed Humphrey's Peak (12,633 feet), the highest point in Arizona. [2019]
-* Hiked Angel's Landing trail in Zion National Park [2018]
-* Hiked Chanderkhani Pass Trail #YHAI [2016]
-* Cycled Jalori Pass Trail #YHAI [2015]
-* Reached Finals of National Robotics Competition #ROBOCON [2013]
-
+* Again Hiked Angel's Landing trail in Zion National Park #Utah [2021]
+* Climbed Humphrey's Peak (12,633 feet), the highest point in #Arizona. [2019]
+* Hiked Angel's Landing trail in Zion National Park #Utah [2018]
+* Hiked Chanderkhani Pass Trail #YHAI #India #Himachal [2016]
+* Cycled Jalori Pass Trail #YHAI #India #Himachal [2015]
+* Reached Finals of National Robotics Competition #ROBOCON #India [2013]
+___
 Connect with me:
 [LinkedIN](https://www.linkedin.com/in/aniketshirsat/)  |
 [Twitter](https://twitter.com/an1ke7) |

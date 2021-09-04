@@ -12,7 +12,7 @@ This class had some excellent sessions till now. We discussed on how analytics i
 
 This class has take-home quizzes, where we have to read HBR cases to prepare for the quiz. These cases cover a wide range of application of Analytics in the industry. Also in the final week, as a team, we have to prepare a pitch for an innovative idea which leverages Analytics.
 
-###  MKT591 Marketing Analytics 
+###  MKT591 Marketing Analytics
 
 In each class, we learn some new marketing concept and ways of implementing it in R. It's usually Linear regression, that have been covered till now. The quizzes are take home and require a lot of R programming skills.
 

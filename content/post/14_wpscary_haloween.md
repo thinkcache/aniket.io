@@ -12,7 +12,7 @@ I was in the MGT class, and suddenly, 5 minutes into the session, the Dark Lord 
 ![Halloween](/images/MSBA/14/23000099_10155603311040937_6677006345729279009_o.jpg)
 
 
-I and my roommates headed to Mill Avenue( The most happening place in Tempe). The streets were crowded, with ghosts and demons and whatnot. Scary jokers and clowns everywhere.
+Me and my roommates headed to Mill Avenue( The most happening place in Tempe). The streets were crowded, with ghosts and demons and whatnot. Scary jokers and clowns everywhere.
 
 ![Halloween](/images/MSBA/14/IMG_20171031_225511.jpg)
 ![Halloween](/images/MSBA/14/IMG_20171031_230101_01.jpg)

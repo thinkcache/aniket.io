@@ -15,7 +15,7 @@ Dan Petro (ASU MS Computer Science Alumni) presented a session on his work on an
 
 ### Job Reporting:
 
-By now, I have heard some students getting job offers. Most American citizens get multiple job offers, as they don’t have face work authorization issues. So a very few of the F-1 students have received job offers. There are a total of 180 students, so it's difficult to report actual progress.
+By now, I have heard some students getting job offers. Most American citizens get multiple job offers, as they don’t have to face work authorization issues. So a very few of the F-1 students have received job offers. There are a total of 180 students, so it's difficult to report actual progress.
 
 ### 6th April: CIS515 Guest Session: Intel Supply Chain using Analytics
 
