@@ -5,3 +5,7 @@ firebase.json
 **/node_modules/**
 */*.cache
 .firebase/*
+.config/
+.cache/*
+.firebase/
+.firebase/hosting*

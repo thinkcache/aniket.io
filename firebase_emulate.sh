@@ -1,14 +1,5 @@
 #!/bin/zsh
 
-# echo "Build starting..."
-# hugo || echo "Hugo build failed."
-# echo "Build successful."
-
-# echo "Proceed with deploy..."
-# firebase deploy || echo "Deploy failed"
-# echo "Firebase deployment completed"
-
-
 #####
 ##### Setup instructions:  #####
 #####
@@ -25,6 +16,4 @@ docker run --rm -it -p 9199:9199  \
            -p 5000:5000 \
            -p 4000:4000 \
            -v $(pwd):/home/node \
-           andreysenov/firebase-tools:9.18.0 firebase deploy
-           #firebase emulators:start
-           #firebase deploy --help
+           andreysenov/firebase-tools:9.18.0 firebase emulators:start
