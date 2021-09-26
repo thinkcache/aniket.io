@@ -38,7 +38,7 @@ Life's Best Moments:
 ___
 Connect with me:
 [LinkedIN](https://www.linkedin.com/in/aniketshirsat/)  |
-[Twitter](https://twitter.com/an1ke7) |
-[Github](https://github.com/an1ke7)
+[Twitter](https://twitter.com/ThinkCache) |
+[Github](https://github.com/thinkcache)
 
 Thank you for reading!
