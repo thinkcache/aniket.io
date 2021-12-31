@@ -1,6 +1,6 @@
 baseurl: "https://example.com"
 languageCode: "en-us"
-title: "Think Cache"
+title: "Think Cache: Aniket's blog on the web"
 theme: "tania"
 paginate: 10
 
@@ -15,8 +15,8 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
+  siteName: "THink Cache"
+  siteDesc: "THink Cache"
   author: "Aniket"
 
   colorScheme:
