@@ -2,7 +2,7 @@
     "title": "About Me",
     "sidebar": true,
     "weight": "1",
-    "draft" : false
+    "draft" : true
 }
 
 My name is **Aniket Shirsat**.  </br>
@@ -10,12 +10,7 @@ My name is **Aniket Shirsat**.  </br>
 I am a
 Developer | Tinkerer | Data Techie | Bibliophile | Traveller | Writer
 
-* '21 : 🇮🇳 Moved back to India
-* '20 : GCP certified Professional Data Engineer
-* '18 : 🎓 Graduated from Arizona State University
-* '17 : 🇺🇸 Moved to USA for Higher education
-* '14 : 🎓 Graduated from Pune University with an Engineering Degree
-* '92 : 🇮🇳 First Cry #Born #India
+
 ___
 Things I like:
 * Coding

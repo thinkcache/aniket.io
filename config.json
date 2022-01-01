@@ -15,12 +15,12 @@
     },
     "pygmentsuseclasses": true,
     "params": {
-        "Title": "Debonair Catalyst",
+        "Title": "Think Cache",
         "Tagline": "Aniket's Corner on the web",
         "Author": "Aniket Shirsat",
         "DateForm": "Jan 2, 2006",
         "Github": {
-            "Url": "http://github.com/an1ke7",
+            "Url": "http://github.com/thinkcache",
             "Head": "master"
         }
     }
