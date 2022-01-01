@@ -28,3 +28,4 @@ docker run --rm -it -p 9199:9199  \
            andreysenov/firebase-tools:9.18.0 firebase deploy
            #firebase emulators:start
            #firebase deploy --help
+           #firebase init emulators
