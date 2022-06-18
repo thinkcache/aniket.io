@@ -2,7 +2,8 @@
     "title": "The VISA Interview",
     "date": "2017-05-10",
     "tags" : ["MS in the US"],
-    "categories" : ["Blog"]
+    "categories" : ["Blog"],
+    "draft" : true
 }
 
 
